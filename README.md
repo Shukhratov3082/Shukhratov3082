@@ -1,13 +1,13 @@
 Hi 👋 I'm Muxtor
 =======================
 
-Frontend developer
+Freelancer  &  Frontend developer
 ------------------
 
 * 🌍  I'm based in Tashkent, the capital of Uzbekistan.
 * 🖥️  See my portfolio at [Shukhratov](http://shukhratov-mid-portfolio.netlify.app)
 * ✉️  You can contact me at [poweshuxratov@gmail.com](mailto:poweshuxratov@gmail.com)
-* 🧠  I'm learning Tailwind, Firebase and TypeScript
+* 🧠  I'm currently learning Frontend libraries and tools
 * 🤝  I'm open to collaborating on Creation of websites with a unique and functional design
 
 ### Skills
@@ -50,12 +50,7 @@ Frontend developer
     
 ### Github Statistics
 
-<b>My GitHub Stats</b>
-
-
-
-
-
+   ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukhratov3082&theme=github_dark) 
 
 <table>
   <tr>
@@ -68,7 +63,13 @@ Frontend developer
   </tr>
 </table>
 
+
+
+   
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/Shukhratov3082/Instagram-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shukhratov3082&repo=Instagram-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Shukhratov3082/Pokemons-Site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shukhratov3082&repo=Pokemons-Site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <br /><br />
 <div width="100%" align="center"><a href="https://github.com/Shukhratov3082/Book-shelf" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shukhratov3082&repo=Book-shelf&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
+
